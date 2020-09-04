@@ -1,0 +1,16 @@
+body{
+   background-color: papayawhip;
+}
+
+h2{
+    color: orangered;
+}
+
+ul{
+    display: inline-block;
+}
+
+ol{
+    display: inline-block;
+}
+
